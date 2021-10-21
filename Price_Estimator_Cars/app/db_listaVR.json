@@ -1,0 +1,44 @@
+{
+  "cars": [
+    {
+      "marca": "audi",
+      "model": "a4",
+      "anfab": "a42000–2006",
+      "transmisie": "a42000–2006automata",
+      "combustibil": "a42000–2006automatabenzina",
+      "nrkm": "a42000–2006automatabenzina150",
+      "intervaldepret": "2000-3000€",
+      "id": 1
+    },
+    {
+      "marca": "audi",
+      "model": "a4",
+      "anfab": "a42000–2006",
+      "transmisie": "a42000–2006manuala",
+      "combustibil": "a42000–2006manualamotorina",
+      "nrkm": "a42000–2006manualamotorina150",
+      "intervaldepret": "2000-3000€",
+      "id": 2
+    },
+    {
+      "marca": "audi",
+      "model": "a4",
+      "anfab": "a42000–2006",
+      "transmisie": "a42000–2006manuala",
+      "combustibil": "a42000–2006manualamotorina",
+      "nrkm": "a42000–2006manualamotorina150",
+      "intervaldepret": "2000-3000€",
+      "id": 3
+    },
+    {
+      "marca": "audi",
+      "model": "a4",
+      "anfab": "a42000–2006",
+      "transmisie": "a42000–2006automata",
+      "combustibil": "a42000–2006automatamotorina",
+      "nrkm": "a42000–2006automatamotorina301",
+      "intervaldepret": "1600-2500€",
+      "id": 4
+    }
+  ]
+}

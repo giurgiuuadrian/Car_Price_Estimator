@@ -1,0 +1,4 @@
+json-server --watch db_licenta.json --port 4000
+
+
+json-server --watch db_listaVR.json --port 3000
